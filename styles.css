@@ -38,6 +38,10 @@ body {
     align-self: center;
 }
 
+.sitedesc button {
+    background-color: #3882F6;
+}
+
 .image1 img {
     height: 250px;
     width: auto;
