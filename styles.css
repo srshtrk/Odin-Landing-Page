@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: Helvetica;
 }
 
 .header {
@@ -19,6 +20,11 @@ body {
     list-style: none;
     gap: 16px;
     margin: 0;
+    margin-right: 15px;
+}
+
+.brandname {
+    margin-left: 15px;
 }
 
 .top1 {
